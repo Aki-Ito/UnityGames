@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{415651D1-D5B7-45E2-79DF-4337A57F7D0A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMove.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMove.cs" Line="24" Column="6" />
+      <File FileName="Assets/Scripts/GoalScript.cs" Line="21" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JumpingCube" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlayerMove.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="35b7b4af-9e53-4a21-83d2-c83988a15e8f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
