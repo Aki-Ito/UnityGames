@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B9981384-D117-7A12-3788-2E12349BF11D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LapScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerScript.cs" Line="23" Column="10" />
+      <File FileName="Assets/Scripts/LapScript.cs" Line="56" Column="32" />
+      <File FileName="Assets/Scripts/ViewScript.cs" Line="26" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="LapScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e1f44aa2-6c1f-4726-963c-dbf8081e215d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
